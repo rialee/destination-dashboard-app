@@ -1,1 +1,1 @@
-# destination-guide
+# destination-dashboard-app
